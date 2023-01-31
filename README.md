@@ -5,5 +5,4 @@ This repository acts as the splash page for research, training, and teaching act
 
 Contact: demuth@umn.edu
 
-![Riding with the wind](./assets/img/logo-riding1-500x375.png)
-
+Original Build: January 30, 2023
