@@ -23,6 +23,8 @@ $ bundle exec jekyll serve
 
 Remove .DS_Store cache, [info][rm-ds-store].
 
+Changing the default branch of the repo [info][change-default-branch].
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
@@ -30,3 +32,4 @@ Remove .DS_Store cache, [info][rm-ds-store].
 [useful-build1]: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 [useful-build2]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 [rm-ds-store]: https://www.linkedin.com/pulse/how-remove-dsstore-files-from-git-repositories-chandan-thakur/
+[change-default-branch]: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch
