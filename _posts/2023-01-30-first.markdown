@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "First Post"
+date:   2023-01-30 20:30:23 -0600
+categories: demuth update
+---
+
+Build first at github/demuth
+Clone to local repo
+
+Helpful documents for building demuth.github.io locally - [Creating a GitHub Pages site][useful-build1] and [Configuring a publishing source for your GitHub Pages site][useful-build2].
+
+{% highlight ruby %}
+# install, repair, and init server (http://127.0.0.1:4000)
+$ bundle install
+$ bundle add webrick
+$ bundle exec jekyll serve
+{% endhighlight %}
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+[useful-build1]: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+[useful-build2]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
