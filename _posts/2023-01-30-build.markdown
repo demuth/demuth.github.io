@@ -20,9 +20,12 @@ $ bundle add webrick
 $ bundle exec jekyll serve
 {% endhighlight %}
 
+Remove .DS_Store cache, [info][rm-ds-store].
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 [useful-build1]: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 [useful-build2]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+[rm-ds-store]: https://www.linkedin.com/pulse/how-remove-dsstore-files-from-git-repositories-chandan-thakur/
