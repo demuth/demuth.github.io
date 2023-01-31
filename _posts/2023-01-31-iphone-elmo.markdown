@@ -19,16 +19,25 @@ A second laptop running the mac OS Ventura joined the Zoom session.
 
 An iPhone SE acted as a document camera, and was attached to a microphone stand having a short adjustable boom, swivel head, and phone clamp.
 
+This technique uses Continuity Camera, which is a built-in feature to the new mac OS. This system includes notices on the parent machine of low power status on the connected iphone - cool. 
 
-![iPhone Elmo 1](/docs/assets/blog/img/iphone-elmo1.png) 
+<!--- Hard link --->
+<!--- ![iPhone Elmo 1](/docs/assets/blog/img/iphone-elmo1.png) --->
 
-<img src="https://demuth.github.io/iphone-elmo1.png" width="48">
+
+<!--- use HTML tag to take advantage of sizing and eventually css --->
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo1.png" width="500">
+
+
 
 #### Footnote
 
 These blog entries are an opportunity to develop markdown skills that will translate to DUNE software training activities. Have a look at a [nice gpages development resource][tomcam-resource] for guidance.
 
-![Riding with the wind](/docs/assets/img/logo-riding1-small.png) <!--- hard link to top level img directory. It seems that creating this directory forced a deletion of the _site/ directory it looks like _site directory are automatically rebuilt each time there are changes --->
+<!--- ![Riding with the wind](/docs/assets/img/logo-riding1-small.png) <!--- hard link to top level img directory. It seems that creating this directory forced a deletion of the _site/ directory it looks like _site directory are automatically rebuilt each time there are changes --->
+
+<img src="https://demuth.github.io/docs/assets/img/logo-riding1-small.png" width="120">
+
 
 
 [tomcam-resource]: https://tomcam.github.io/least-github-pages/
