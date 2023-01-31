@@ -9,7 +9,7 @@ categories: teaching technology
 
 As a DUNE researcher, visiting Fermilab or CERN are usual activities. Breaking from teaching responsibilities is a challenge. If you have a post-doc or advanced graduate student to jump in for a two or three lectures, great! If otherwise, remote lecturing from a sequence of well organized slides is straight forward, but with physics teaching, ad-hoc is normal. That is, students pose questions to problems when solutions are often formulated on your feet, with a white board, complete with sketches, diagrams, and loads of equations - this is fun. Granted, if deemed significant, that ad-hoc work might be cast as a [Google slide][link-to-thermo-question] for a future more seamless lecture presentation.
 
-Fortunately FNAL or CERN have dedicated Zoom rooms with white boards, and pivot-able+zoom-able cameras, making for a relatively seamless way to remotely teach. But what if otherwise. Once I was enroute to FNAL at a time that overlapped a lecture, so I fashioned a small studio in the truck, with laptop, a document camera using my iPhone, and my faithful Verizon hotspot; the design worked but was kludgy.  With the native ability for devices to sync up for the new mac OD Ventura (13.1), kludgy becomes elegant, let's see how. 
+Fortunately FNAL or CERN have dedicated Zoom rooms with white boards, and pivot-able+zoom-able cameras, making for a relatively seamless way to remotely teach. But what if otherwise. Once I was enroute to FNAL at a time that overlapped a lecture, so I fashioned a small studio in the truck, with laptop, a document camera using my iPhone, and my faithful Verizon hotspot; the design worked but was kludgy.  With the native ability for devices to sync up for the new mac OD Ventura (13.1**, kludgy becomes elegant, let's see how. 
 
 ### Design
 
@@ -29,6 +29,22 @@ This technique uses Continuity Camera, which is a built-in feature to the new ma
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo1.png" width="500">
 
 
+| Elmo 2 | Elmo 3 | Elmo 4 |
+| --- | --- | ---    |
+| --- | --- | --- |
+| Elmo 5 | Elmo 6 | Elmo 7 |
+| --- | --- | --- |
+
+
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo2.png" width="50">                                                                 |        |        |
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo3.jpg" width="50"> 
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo4.jpg" width="50"> 
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo5.jpg" width="50">
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo6.jpg" width="50"> 
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo7.jpg" width="50"> 
+
+
+___
 
 #### Footnote
 
