@@ -13,13 +13,11 @@ Fortunately FNAL or CERN have dedicated Zoom rooms with white boards, and pivot-
 
 ### Design
 
-A Zoom session was opened on one laptop, acting as the control and monitoring machine for this test.
+A Zoom session was opened on a MacBook Air (2019) running the mac OS Ventura.
 
-A second laptop running the mac OS Ventura joined the Zoom session.
+An iPhone SE (16.2) was attached via a spring clip to a short adjustable boom. A swivel head connected the clip to the boom to allow improve on adjusting the video.
 
-An iPhone SE acted as a document camera, and was attached to a microphone stand having a short adjustable boom, swivel head, and phone clamp.
-
-This technique uses [Continuity Camera](https://support.apple.com/en-us/HT213244), which is a built-in feature to the new mac OS. This system includes notices on the parent machine of low power status on the connected iphone - cool. 
+Managing the connection between the iPhone and the computer's Zoom session is [Continuity Camera](https://support.apple.com/en-us/HT213244) which is a built-in feature to Ventura. Continuity Camera includes notices on the parent machine of low power status on the connected iPhone - cool. 
 
 <!--- Hard link --->
 <!--- ![iPhone Elmo 1](/docs/assets/blog/img/iphone-elmo1.png) --->
@@ -39,7 +37,7 @@ Open each image  of the doc camera in a new tab to view full size:
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo7.jpg" width="80"> 
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo4.jpg" width="80">
 
-Note that both the remote iphone camera and its microphone are available inputs for the Zoom session. 
+Note that both the remote iPhone camera and its microphone are available inputs for the Zoom session. 
 
 Parts List:
 
