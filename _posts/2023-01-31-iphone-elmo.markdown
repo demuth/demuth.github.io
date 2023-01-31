@@ -29,19 +29,15 @@ This technique uses Continuity Camera, which is a built-in feature to the new ma
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo1.png" width="500">
 
 
-| Elmo 2 | Elmo 3 | Elmo 4 |
-| --- | --- | ---    |
-| --- | --- | --- |
-| Elmo 5 | Elmo 6 | Elmo 7 |
-| --- | --- | --- |
+Open each image  of the doc camera in a new window to view full size:
 
-
-<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo2.png" width="50">                                                                 |        |        |
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo2.png" width="50">
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo3.jpg" width="50"> 
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo4.jpg" width="50"> 
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo5.jpg" width="50">
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo6.jpg" width="50"> 
-<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo7.jpg" width="50"> 
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo7.jpg" width="50">
+
 
 
 ___
