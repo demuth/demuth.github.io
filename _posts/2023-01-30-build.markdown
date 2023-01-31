@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post"
+title:  "Build Notes"
 date:   2023-01-30 20:30:23 -0600
 categories: demuth update
 ---
@@ -10,7 +10,10 @@ Clone to local repo
 
 Helpful documents for building demuth.github.io locally - [Creating a GitHub Pages site][useful-build1] and [Configuring a publishing source for your GitHub Pages site][useful-build2].
 
+
 {% highlight ruby %}
+# Gemfile tweak for latest version (pages.github.com/versions): gem "github-pages", "~227,", group: :jekyll_plugins
+
 # install, repair, and init server (http://127.0.0.1:4000)
 $ bundle install
 $ bundle add webrick
