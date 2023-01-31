@@ -9,11 +9,11 @@ categories: teaching technology
 
 As a DUNE researcher, visiting Fermilab or CERN are usual activities. Breaking from teaching responsibilities is a challenge. If you have a post-doc or advanced graduate student to jump in for a two or three lectures, great! If otherwise, remote lecturing from a sequence of well organized slides is straight forward, but with physics teaching, ad-hoc is normal. That is, students pose questions to problems when solutions are often formulated on your feet, with a white board, complete with sketches, diagrams, and loads of equations - this is fun. Granted, if deemed significant, that ad-hoc work might be cast as a [Google slide][link-to-thermo-question] for a future more seamless lecture presentation.
 
-Fortunately FNAL or CERN have dedicated Zoom rooms with white boards, and pivot-able+zoom-able cameras, making for a relatively seamless way to remotely teach. But what if otherwise. Once I was enroute to FNAL at a time that overlapped a lecture, so I fashioned a small studio in the truck, with laptop, a document camera using my iPhone, and my faithful Verizon hotspot; the design worked but was kludgy.  With the native ability for devices to sync up for the new mac OD Ventura (13.1), kludgy becomes elegant, let's see how. 
+Fortunately FNAL or CERN have dedicated Zoom rooms with white boards, and pivot-able+zoom-able cameras, making for a relatively seamless way to remotely teach. But what if otherwise. Once I was enroute to FNAL at a time that overlapped a lecture, so I fashioned a small studio in the truck, with laptop, a document camera using my iPhone, and my faithful Verizon hotspot; the design worked but was kludgy.  With the native ability for devices to sync up for the new mac OS Ventura, kludgy becomes elegant, let's see how. 
 
 ### Design
 
-A Zoom session was opened on a MacBook Air (2019) running the mac OS Ventura.
+A Zoom session was opened on a MacBook Air (2019) running the mac OS Ventura (13.1).
 
 An iPhone SE (16.2) was attached via a spring clip to a short adjustable boom. A swivel head connected the clip to the boom to allow improve on adjusting the video.
 
