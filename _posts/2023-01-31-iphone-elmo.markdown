@@ -29,16 +29,30 @@ This technique uses Continuity Camera, which is a built-in feature to the new ma
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo1.png" width="500">
 
 
-Open each image  of the doc camera in a new window to view full size:
+Open each image  of the doc camera in a new tab to view full size:
 
-<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo2.png" width="50">
-<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo3.jpg" width="50"> 
-<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo4.jpg" width="50"> 
-<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo5.jpg" width="50">
-<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo6.jpg" width="50"> 
-<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo7.jpg" width="50">
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo2.png" width="80">
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo3.jpg" width="80"> 
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo5.jpg" width="80"> 
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo6.jpg" width="80">
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo7.jpg" width="80"> 
+<img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo4.jpg" width="80">
 
+Note that both the remote iphone camera and its microphone are available inputs for the Zoom session. 
 
+Parts List:
+
+|Item| Description | Link |
+|:---:|:---|:---|
+| 1 | Mic Stand | Amazon Link 1 |
+| 2 | Swivel Mount | Amazon Link 2 |
+| 3 | iPhone Clamp | Amazon Link 3 |
+| 4 | 8.5 x 11 Legal Pad | Amazon Link 4 |
+| 5 | Scotch Tape | Amazon Link 5 |
+| 6 | Sharpie Pen | Amazon Link 6 |
+| --- | --- | --- |
+
+Alignment of your doc camera takes some patience. The bulky College Physics textbook acts as both a pedestal, and an anchor. Taping several legal pad pages on their back and long side, will allow you to pull these seamlessly from right to left as you fill in each page.  Here a fine tip blue ink pen is used, but a fine tipped Sharpie is better. 
 
 ___
 
