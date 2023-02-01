@@ -7,17 +7,19 @@ categories: teaching technology
 
 ### Motivation
 
-As a DUNE researcher, visiting Fermilab or CERN are usual activities. Breaking from teaching responsibilities is a challenge. If you have a post-doc or advanced graduate student to jump in for a two or three lectures, great! If otherwise, remote lecturing from a sequence of well organized slides is straight forward, but with physics teaching, ad-hoc is normal. That is, students pose questions to problems when solutions are often formulated on your feet, with a white board, complete with sketches, diagrams, and loads of equations - this is fun. Granted, if deemed significant, that ad-hoc work might be cast as a [Google slide][link-to-thermo-question] for a future more seamless lecture presentation.
+As a DUNE researcher, visiting Fermilab or CERN are usual activities. Breaking from teaching responsibilities is a challenge. If you have a post-doc or advanced graduate student to jump in for two or three lectures, great! If otherwise, remote lecturing from a sequence of well organized slides is straight forward, but with physics teaching, ad-hoc is normal. That is, students pose questions to problems when solutions are often formulated on your feet, with a white board, complete with sketches, diagrams, and loads of equations - this is fun. Granted, if deemed significant, that ad-hoc work might be cast as a [Google slide][link-to-thermo-question] for a future more seamless lecture presentation.
 
-Fortunately FNAL or CERN have dedicated Zoom rooms with white boards, and pivot-able+zoom-able cameras, making for a relatively seamless way to remotely teach. But what if otherwise. Once I was enroute to FNAL at a time that overlapped a lecture, so I fashioned a small studio in the truck, with laptop, a document camera using my iPhone, and my faithful Verizon hotspot; the design worked but was kludgy.  With the native ability for devices to sync up for the new mac OS Ventura, kludgy becomes elegant, let's see how. 
+Fortunately FNAL or CERN have dedicated Zoom rooms with white boards, and panable+zoomable cameras, making for a relatively seamless way to remotely teach. But what if otherwise. Once I was enroute to FNAL at a time that overlapped a lecture, so I fashioned a small studio in the truck, with laptop, a document camera using my iPhone, and my faithful Verizon hotspot; the design worked but was kludgy.  With the native ability for devices to sync up for the new mac OS Ventura, kludgy becomes elegant, let's see how. 
 
 ### Design
 
 A Zoom session was opened on a MacBook Air (2019) running the mac OS Ventura (13.1).
 
-An iPhone SE (16.2) was attached via a spring clip to a short adjustable boom. A swivel head connected the clip to the boom to allow improve on adjusting the video.
+An iPhone SE (16.2) was attached via a spring clip to a short adjustable boom. A swivel head connected the clip to the boom to improve alignment of the content for the video.
 
 Managing the connection between the iPhone and the computer's Zoom session is [Continuity Camera](https://support.apple.com/en-us/HT213244) which is a built-in feature to Ventura. Continuity Camera includes notices on the parent machine of low power status on the connected iPhone - cool. 
+
+A screenshot showing two 8.5 x 11 in<sup>2</sup> ledger paper side by side follows. 
 
 <!--- Hard link --->
 <!--- ![iPhone Elmo 1](/docs/assets/blog/img/iphone-elmo1.png) --->
@@ -27,8 +29,9 @@ Managing the connection between the iPhone and the computer's Zoom session is [C
 <!--- use HTML tag to take advantage of sizing and eventually css --->
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo1.png" width="500">
 
+The font is legible and clear. The lighting could be improved. 
 
-Open each image  of the doc camera in a new tab to view full size:
+Below, open each image  of the doc camera in a new tab to view full size:
 
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo2.png" width="80">
 <img src="https://demuth.github.io/docs/assets/blog/img/iphone-elmo3.jpg" width="80"> 
@@ -51,7 +54,7 @@ Parts List:
 | 6 | Sharpie Pen | Amazon Link 6 |
 | --- | --- | --- |
 
-Alignment of your doc camera takes some patience. The bulky [College Physics](https://openstax.org/details/books/college-physics) textbook acts as both a pedestal, and an anchor. Taping several legal pad pages on their back and long side, will allow you to pull these seamlessly from right to left as you fill in each page.  Here a fine tip blue ink pen is used, but a fine tipped Sharpie is better. 
+Alignment of your doc camera takes some patience. The bulky [College Physics](https://openstax.org/details/books/college-physics) textbook acts as both a pedestal, and an anchor. Taping several legal pad pages together on their back and long side, will allow the teacher to pull these pages seamlessly from right to left as each page is filled with diagrams and equations.  Here a fine tip blue ink pen is used, but a fine tipped Sharpie is better. 
 
 ___
 
