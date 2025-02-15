@@ -6,5 +6,3 @@ This repository acts as the splash page for research, training, and teaching act
 Contact: david.demuth@vcsu.edu
 
 Original Build: January 30, 2023
-
-Modified: January 25, 2025
